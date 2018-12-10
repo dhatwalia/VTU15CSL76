@@ -1,0 +1,15 @@
+sunny,warm,normal,strong,warm,same,1
+sunny,warm,high,strong,warm,same,1
+rainy,cold,high,strong,warm,change,0
+sunny,warm,high,strong,cool,change,1
+sunny,warm,normal,strong,cool,same,1
+sunny,cold,normal,strong,cool,same,1
+sunny,cold,normal,weak,cool,change,0
+rainy,cold,high,strong,cool,change,0
+rainy,cold,high,strong,warm,change,1
+rainy,warm,high,strong,warm,same,1
+rainy,warm,normal,strong,warm,change,0
+sunny,cold,high,strong,cool,change,1
+sunny,cold,normal,strong,cool,same,1
+sunny,warm,normal,strong,cool,same,1
+sunny,warm,normal,weak,cool,change,0
